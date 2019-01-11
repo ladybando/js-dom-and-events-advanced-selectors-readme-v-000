@@ -1,3 +1,5 @@
 // declare your functions here...
 
-$('.pics');
+$(document).ready(function(paragraphSelector) {
+  
+});
